@@ -1,0 +1,6 @@
+config.py
+cronlog.txt
+/venv
+docker-compose.yaml
+Dockerfile
+films.json
