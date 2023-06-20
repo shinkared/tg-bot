@@ -4,3 +4,4 @@ cronlog.txt
 docker-compose.yaml
 Dockerfile
 films.json
+/.idea
